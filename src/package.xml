@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ArgumentException</members>
+        <members>ArgumentNullException</members>
+        <members>ArgumentNullExceptionTest</members>
+        <members>ConfigurationException</members>
+        <members>DataMockService</members>
+        <members>DataMockServiceTest</members>
+        <members>SingleExecution</members>
+        <members>SObjectTestData</members>
+        <members>StateAndCountryService</members>
+        <members>StateAndCountryServiceMock</members>
+        <members>StateAndCountryServiceTest</members>
+        <members>TestHelper</members>
+        <name>ApexClass</name>
+    </types>
+    <version>57.0</version>
+</Package>
